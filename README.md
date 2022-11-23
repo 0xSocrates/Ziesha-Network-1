@@ -96,6 +96,8 @@ bazuka node start --discord-handle "YOUR DISCORD HANDLE"
 
 ![image](https://user-images.githubusercontent.com/101149671/203009309-5f9d033e-453f-494a-8a49-39a6f41f8ffb.png)
 
+## Loglar akmaya başladıktan sonra CTRL+A+D ile screenden çıkış yapın
+
 ## Solo miner rehberi: [Link](https://github.com/ruesandora/Ziesha-Network/blob/main/solo-miner.md)
 ## Miner pool rehber: [Link](https://github.com/ruesandora/Ziesha-Network/blob/main/mining-pool.md)
 
